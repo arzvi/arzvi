@@ -8,7 +8,7 @@
   - Proficient in **Data Governance** practices.
 
 ## Personal Projects  
-Restarted work on **Agent Architectures** in **Generative AI** and **Semantic AI**. Excited to share **more updates soon**!  
+Restarted work on **Agent Architectures** in **Generative AI**. Excited to share **more updates soon**!  
 <!---
 arzvi/arzvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
