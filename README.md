@@ -1,6 +1,6 @@
 # A brief introduction
 
-## People Leader at Slalom  
+## Principal Data Architect/People Leader at [Slalom](https://www.linkedin.com/in/arunsr1ni)    
 - **Expertise in Data Solutions**:  
   - Implementing **secure modern data platforms**:  
     - Platforms: **Databricks, AWS, Azure**  
